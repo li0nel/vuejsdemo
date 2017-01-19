@@ -1,7 +1,9 @@
 # SSR + vue-router demo
 
 > Foo.html and Bar.html are server-side rendered (they are static in this example), so they can be generated in any language and cached server-side
-> If Javascript is enabled in your browser, the app is client-side rendered and routed 
+
+> If Javascript is enabled in your browser, the app is client-side rendered and routed
+ 
 > If Javascript is disabled, the app is server-side rendered
 
 ## Live demo
