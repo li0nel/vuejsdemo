@@ -36,6 +36,6 @@ If running the demo locally, you might have to set up the base_url for vue-route
 const router = new VueRouter({
     routes,
     mode: 'history',
-    base: '/Users/Lionel/Documents/vuerouterdemo'
+    base: '/Users/_PATH_TO_YOUR_GIT_CLONE_/vuerouterdemo'
 });
 ```
